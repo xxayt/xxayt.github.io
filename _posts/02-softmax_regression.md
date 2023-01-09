@@ -8,9 +8,9 @@ tags:
 
 # 02 ML Refresher / Softmax Regression
 
-[课件 Slides](https://dlsyscourse.org/slides/intro_online.pdf)
+[CH02课件](https://dlsyscourse.org/slides/softmax_regression.pdf)
 
-[课堂视频 Video](https://www.youtube.com/watch?v=ftP5HeOvsI0)
+[CH02课堂视频](https://www.youtube.com/watch?v=MlivXhZFbNA)
 
 ## 2.1 机器学习基础知识
 
