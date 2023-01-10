@@ -26,13 +26,18 @@ tags:
   - 输入向量维度 $n$ ，类别数 $k$ ，训练样本数 $m$
   
 - **线性假设函数**：通常 $h:R^n\longrightarrow R^k$，因此线性假设函数为
+  
   $$
   h_{\theta}(x)=\theta^Tx \qquad\text{ for }\;\theta\in R^{n\times k}
   $$
 
 - **矩阵批处理符号**：
   
-  - **设定**：$X\in R^{m\times n}=\begin{bmatrix}{x^{(1)}}^{T}\\ \vdots \\{x^{(m)}}^{T}  \end{bmatrix},\qquad y\in \{1,...,k\}^m =\begin{bmatrix}y^{(1)}\\ \vdots \\y^{(m)}  \end{bmatrix}$
+  - **设定**：
+    $$
+    X\in R^{m\times n}=\begin{bmatrix}{x^{(1)}}^{T}\\ \vdots \\{x^{(m)}}^{T}  \end{bmatrix},\qquad y\in \{1,...,k\}^m =\begin{bmatrix}y^{(1)}\\ \vdots \\y^{(m)}  \end{bmatrix}
+    $$
+  
   - **改写**：
     $$
     h_{\theta}(X) = \begin{bmatrix}h_{\theta}{(x^{(1)})}^{T}\\ \vdots \\h_{\theta}{(x^{(m)})}^{T}  \end{bmatrix} = \begin{bmatrix}{x^{(1)}}^{T}\theta\\ \vdots \\{x^{(m)}}^{T}\theta  \end{bmatrix} = X\theta
