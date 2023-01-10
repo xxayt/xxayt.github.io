@@ -1,7 +1,7 @@
 ---
-title: 'CMU10714 Deep Learning Systems：CH02 softmax_regression'
+title: 'CMU10714 dlsys: CH02 softmax_regression'
 date: 2023-01-09
-permalink: /posts/2023/01/CMU10714-CH02-softmax_regression/
+permalink: /posts/2023/01/blog-post-2/
 tags:
   - dlsys
 ---
