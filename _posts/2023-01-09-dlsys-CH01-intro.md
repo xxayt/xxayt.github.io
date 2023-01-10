@@ -1,7 +1,7 @@
 ---
 title: 'CMU10714 dlsys: CH01 intro'
 date: 2023-01-09
-permalink: /posts/2023/01/blog-post-1/
+permalink: /posts/2023/01/dlsys-CH01-intro/
 tags:
   - dlsys
 ---

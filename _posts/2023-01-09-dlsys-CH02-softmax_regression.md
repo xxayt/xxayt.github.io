@@ -1,7 +1,7 @@
 ---
 title: 'CMU10714 dlsys: CH02 softmax_regression'
 date: 2023-01-09
-permalink: /posts/2023/01/blog-post-2/
+permalink: /posts/2023/01/dlsys-CH02-softmax_regression/
 tags:
   - dlsys
 ---
