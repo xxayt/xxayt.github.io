@@ -4,6 +4,8 @@ date: 2023-01-09
 permalink: /posts/2023/01/dlsys-CH01-intro/
 tags:
   - dlsys
+Categories:
+  - course
 ---
 
 # 01 Introduction and Logistics

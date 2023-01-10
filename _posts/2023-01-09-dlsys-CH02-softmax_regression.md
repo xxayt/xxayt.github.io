@@ -4,6 +4,8 @@ date: 2023-01-09
 permalink: /posts/2023/01/dlsys-CH02-softmax_regression/
 tags:
   - dlsys
+Categories:
+  - course
 ---
 
 # 02 ML Refresher / Softmax Regression
