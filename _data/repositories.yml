@@ -1,12 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - xxayt
+  # - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - xxayt/CS231n-2023-Assignments
+  - xxayt/mindspore-GAN
+  
+  # - alshedivat/al-folio
+  # - twbs/bootstrap
+  # - jekyll/jekyll
+  # - jquery/jquery
+  # - FortAwesome/Font-Awesome
+  # - jpswalsh/academicons
+  # - mathjax/MathJax
