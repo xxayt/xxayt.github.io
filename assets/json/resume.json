@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Zijie Xin",
+    "role": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "xxayt3216@gmail.com",
+    "phone": "",
+    "url": "https://xxayt.github.io",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
@@ -22,7 +22,33 @@
       }
     ]
   },
-  "work": [
+  "education": [
+    {
+      "institution": "Sichuan University, Chengdu, China",
+      "url": "https://www.scu.edu.cn/",
+      "area": "Software Development",
+      "studyType": "PhD",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "",
+      "courses": [
+        "Theory of Relativity"
+      ]
+    },
+    {
+      "institution": "Renmin University of China, Beijing, China",
+      "url": "https://www.ruc.edu.cn/",
+      "area": "Software Development",
+      "studyType": "PhD",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "",
+      "courses": [
+        "Theory of Relativity"
+      ]
+    }
+  ],
+  "experience": [
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
@@ -36,20 +62,6 @@
     }
   ],
   "volunteer": [],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
-    }
-  ],
   "awards": [
     {
       "title": "Nobel Prize in Physics",
