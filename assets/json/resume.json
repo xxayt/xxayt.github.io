@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Zijie Xin",
-    "role": "PhD Student",
+    "role": "Ph.D Student",
     "image": "",
     "email": "xxayt3216@gmail.com",
     "phone": "",
     "url": "https://xxayt.github.io",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,40 +24,80 @@
   },
   "education": [
     {
+      
+      "institution": "Renmin University of China, Beijing, China",
+      "url": "https://www.ruc.edu.cn/",
+      "area": "Computer Science and Technology",
+      "studyType": "Ph.D",
+      "startDate": "2024-09",
+      "endDate": "Present",
+      "score": "",
+      "courses": []
+    },
+    {
       "institution": "Sichuan University, Chengdu, China",
       "url": "https://www.scu.edu.cn/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
+      "area": "Computer Science and Technology",
+      "studyType": "B.Eng.",
+      "startDate": "2020-09",
+      "endDate": "2024-06",
+      "score": "3.80/4.00",
+      "courses": []
+    }
+  ],
+  "work": [],
+  "experience": [
+    {
+      "place": "Kuaishou",
+      "place_url": "https://www.kuaishou.com/cn",
+      "position": "Research Intern",
+      "advisor": "",
+      "advisor_url": "",
+      "startDate": "2023-11",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
       ]
     },
     {
-      "institution": "Renmin University of China, Beijing, China",
-      "url": "https://www.ruc.edu.cn/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
-    }
-  ],
-  "experience": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "place": "GeWu Lab, Gaoling School of AI, Renmin University of China (RUC)",
+      "place_url": "https://gewu-lab.github.io/",
+      "position": "Research Intern",
+      "advisor": "Prof. Di Hu",
+      "advisor_url": "https://dtaoo.github.io/",
+      "startDate": "2023-03",
+      "endDate": "2023-06",
+      "summary": "",
       "highlights": [
-        "Relativity"
+        "Multi-Headed Attention",
+        "Optimization"
+      ]
+    },
+    {
+      "place": "Biometrics Research Laboratory, College of Computer Science, Sichuan University (SCU)",
+      "place_url": "http://scubrl.org/index",
+      "position": "Research Intern",
+      "advisor": "Prof. Qijun Zhao",
+      "advisor_url": "http://scubrl.org/index",
+      "startDate": "2022-09",
+      "endDate": "2023-09",
+      "summary": "",
+      "highlights": [
+        "Biometric Identification",
+        "Multi-modal Learning"
+      ]
+    },
+    {
+      "place": "School of Computing, National University of Singapore (NUS)",
+      "place_url": "https://www.comp.nus.edu.sg/",
+      "position": "Student of Summer Workshop 2022",
+      "advisor": " Prof. TAN Wee Kek",
+      "advisor_url": "https://www.comp.nus.edu.sg/~tanwk/",
+      "startDate": "2022-05",
+      "endDate": "2022-07",
+      "summary": "",
+      "highlights": [
+        "AIoT"
       ]
     }
   ],
@@ -75,7 +115,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker"
     },
     {
