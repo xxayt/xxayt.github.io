@@ -5,5 +5,5 @@ description: Database Design Assignment
 img: assets/img/projects/e-wardrobe.png
 redirect: https://github.com/xxayt/e-wardrobe
 importance: 3
-category: individual
+category: team
 ---
