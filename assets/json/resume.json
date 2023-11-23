@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Zijie Xin",
-    "role": "Ph.D Student",
+    "role": "Ph.D. Student",
     "image": "",
     "email": "xxayt3216@gmail.com",
     "phone": "",
@@ -28,7 +28,7 @@
       "institution": "Renmin University of China, Beijing, China",
       "url": "https://www.ruc.edu.cn/",
       "area": "Computer Science and Technology",
-      "studyType": "Ph.D",
+      "studyType": "Ph.D.",
       "startDate": "2024-09",
       "endDate": "Now",
       "score": "",
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "place": "Biometrics Research Laboratory, College of Computer Science, Sichuan University (SCU)",
+      "place": "Biometrics Research Lab, College of Computer Science, Sichuan University (SCU)",
       "place_url": "http://scubrl.org/index",
       "position": "Research Intern",
       "advisor": "Prof. Qijun Zhao",

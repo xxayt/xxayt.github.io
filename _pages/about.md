@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a senior undergraduate in the Top-notch Program (a class of 15 elite students selected from 400+) at [College of Computer Science](http://cs.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/), advised by [Prof. Qijun Zhao](http://www.scubrl.org/qjzhao) and anticipate graduating in June 2024. Next, I will begin my Ph.D at [AI & Media Computing Lab](https://ruc-aimc-lab.github.io/), [Renmin University of China](https://www.ruc.edu.cn/), advised by [Prof. Xirong Li](http://lixirong.net/).
+I am currently a senior undergraduate in the Top-notch Program (a class of 15 elite students selected from 400+) at the [College of Computer Science](http://cs.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/), advised by [Prof. Qijun Zhao](http://www.scubrl.org/qjzhao), and anticipate graduating in June 2024. Next, I will start my Ph.D. at the [AI & Media Computing Lab](https://ruc-aimc-lab.github.io/), [Renmin University of China](https://www.ruc.edu.cn/), advised by [Prof. Xirong Li](http://lixirong.net/).
 
 My research primarily revolves around video retrieval, multi-modal learning, and computer vision, complemented by a broad curiosity in generative model and LLM.
 
