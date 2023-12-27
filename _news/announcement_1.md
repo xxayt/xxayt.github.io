@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉🎉 I received an invitation for a research internship at AI Infra.
+TEST:I received an invitation for a research internship at AI Infra.
