@@ -4,3 +4,11 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"CVPR":
+  url: https://cvpr.thecvf.com/
+  color: "#68448b"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
