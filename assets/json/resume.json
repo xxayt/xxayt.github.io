@@ -24,7 +24,6 @@
   },
   "education": [
     {
-      
       "institution": "Renmin University of China, Beijing, China",
       "url": "https://www.ruc.edu.cn/",
       "area": "Computer Science and Technology",
@@ -53,11 +52,10 @@
       "position": "Research Intern",
       "advisor": "",
       "advisor_url": "",
-      "startDate": "2023-11",
-      "endDate": "Now",
+      "startDate": "2023-12",
+      "endDate": "2024-7",
       "summary": "",
-      "highlights": [
-      ]
+      "highlights": []
     },
     {
       "place": "GeWu Lab, Gaoling School of AI, Renmin University of China (RUC)",
@@ -104,25 +102,22 @@
   "volunteer": [],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Bronze Medal in the 46th ICPC Asia Regional Contest (Kunming Site 2021) ",
+      "date": "2022-4-17",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Bronze Medal in the 46th ICPC Asia Regional Contest (Jinan Site 2021) ",
+      "date": "2021-11-14",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
-    {
-      "language": "Chinese",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    }
-  ],
+  "languages": [],
   "interests": [],
   "references": [],
   "projects": []
