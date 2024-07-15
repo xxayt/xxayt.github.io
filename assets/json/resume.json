@@ -100,7 +100,7 @@
     }
   ],
   "volunteer": [],
-  "selected awards and honors": [
+  "selected": [
     {
       "title": "Bronze Medal in ICPC Asia Regional Contest",
       "date": "2022-4-17",
@@ -116,12 +116,6 @@
     {
       "title": "Outstanding Graduate of Sichuan University",
       "date": "2024",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "Merit student of Sichuan University",
-      "date": "2022/2023",
       "awarder": "",
       "summary": ""
     }
