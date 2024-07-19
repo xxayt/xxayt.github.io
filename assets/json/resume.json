@@ -45,15 +45,15 @@
     }
   ],
   "work": [],
-  "experience": [
+  "experiences": [
     {
       "place": "Kuaishou",
       "place_url": "https://www.kuaishou.com/cn",
-      "position": "Research Intern",
+      "position": "Algorithm Research Intern",
       "advisor": "",
       "advisor_url": "",
       "startDate": "2023-12",
-      "endDate": "2024-7",
+      "endDate": "2024-8",
       "summary": "",
       "highlights": []
     },
