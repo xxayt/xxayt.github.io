@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior at <a href='https://www.scu.edu.cn/'>SCU</a>.
+subtitle: PhD at <a href='https://www.ruc.edu.cn/'>RUC</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Now Chengdu, Next Beijing</p>
+    <p>Now Beijing</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
