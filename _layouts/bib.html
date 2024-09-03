@@ -199,6 +199,9 @@
       {%- if entry.website %}
       <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {%- endif %}
+      {%- if entry.project %}
+      <a href="{{ entry.project }}" class="btn btn-sm z-depth-0" role="button">Project</a>
+      {%- endif %}
       {%- if entry.bibtex_show %}
       <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {%- endif %}
