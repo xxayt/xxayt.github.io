@@ -115,13 +115,16 @@
     {% assign thesis = "thesis,mastersthesis,phdthesis" | split: ','%}
     {% if entry.type == "article" -%}
     {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
+    {% elsif entry.type == "misa" -%}
+    {%- capture entrytype -%}<em>Preprint</em>{%- endcapture -%}
     {%- elsif proceedings contains entry.type -%}
-    {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
+    {%- capture entrytype -%}In <em>{{entry.booktitle}}</em> {%- endcapture -%}
     {%- elsif thesis contains entry.type -%}
     {%- capture entrytype -%}<em>{{entry.school}}</em> {%- endcapture -%}
     {%- else -%}
     {%- capture entrytype -%}{%- endcapture -%}
     {%- endif -%}
+
     {%- if entry.month -%}
     {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
     {%- endif -%}
