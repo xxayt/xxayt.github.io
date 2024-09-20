@@ -1,15 +1,15 @@
 "CVPR":
   url: https://cvpr.thecvf.com/
-  color: "#ff4444"
+  color: "#6820d0"
 
 "arXiv":
   url: https://arxiv.org/
-  color: "#ff4444"
+  color: "#89867c"
 
-"ICLR":
+"AAAI":
   url: https://iclr.cc/
-  color: "#ff4444"
+  color: "#c6000b"
 
-"NeurIPS":
+"TOMM":
   url: https://nips.cc/
-  color: "#ff4444"
+  color: "#13b2ff"
