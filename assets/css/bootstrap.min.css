@@ -2044,6 +2044,10 @@ a.close.disabled {
     margin: 0 !important
 }
 
+.mt-0 {
+    margin-top: 0 !important
+}
+
 .mr-1 {
     margin-right: .25rem !important
 }
