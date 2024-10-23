@@ -9,8 +9,7 @@ last_name: Xin
 email: xxayt3216@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to Zijie Xin's personal website.
-footer_text: >
-  ""
+# footer_text: >
 keywords: zijie xin, zijie, xin, 辛梓杰, 辛, 梓, 杰, jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
