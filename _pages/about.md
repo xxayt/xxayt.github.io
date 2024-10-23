@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: ZIJIE XIN 辛梓杰 
 permalink: /
 subtitle: PhD at <a href='https://www.ruc.edu.cn/'>RUC</a>.
 
