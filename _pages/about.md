@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: PhD at <a href='https://www.ruc.edu.cn/'>RUC</a>.
 
