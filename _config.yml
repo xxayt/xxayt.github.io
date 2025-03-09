@@ -6,7 +6,7 @@ title: ZIJIE XIN 辛梓杰 # blank # the website title (if blank, full name will
 first_name: Zijie
 middle_name: 
 last_name: Xin 辛梓杰
-email: xxayt3216@gmail.com
+email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to Zijie Xin's personal website.
 footer_text: >
@@ -102,7 +102,7 @@ wechat_qr: wechat-qr.png # filename of your wechat qr-code saved as an image (e.
 
 # You can even add a little note about which of these is the best way to reach you.
 contact_note: >
-  Best way to contact me is to <a href="mailto:xxayt3216@gmail.com">email</a>.
+  Best way to contact me is to <a href="mailto:3494085277@qq.com">email</a> / wechat.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
