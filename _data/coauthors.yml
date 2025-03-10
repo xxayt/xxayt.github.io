@@ -18,6 +18,10 @@
   - firstname: ["Zijie", "Z."]
     url: https://scholar.google.com/citations?user=wQCmPQkAAAAJ
 
+"Liu":
+  - firstname: ["Jingyu", "J."]
+    url: 
+
 "Wang":
   - firstname: ["Minquan", "M."]
     url:
@@ -26,9 +30,6 @@
   - firstname: ["Ye", "Y."]
     url:
 
-"Wang":
-  - firstname: ["Bo", "B."]
-    url:
 
 "Chen":
   - firstname: ["Quan", "Q."]
