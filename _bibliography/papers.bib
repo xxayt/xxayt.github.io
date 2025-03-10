@@ -18,14 +18,12 @@
 }
 
 @misa{VMMR_arxiv,
-    abbr={arXiv},
     title={Music Grounding by Short Video},
-    author={Xin, Zijie and Wang, Minquan and Jingyu, Liu and Chen, Quan and Ma, Ye and Jiang, Peng and Li, Xirong},
+    author={Xin, Zijie and Wang, Minquan and Liu, Jingyu and Chen, Quan and Ma, Ye and Jiang, Peng and Li, Xirong},
     year={2025},
     selected={true},
-    abstract={Adding proper background music helps complete a short video to be shared. Towards automating the task, previous research focuses on video-to-music retrieval (VMR), aiming to find amidst a collection of music the one best matching the content of a given video. Since music tracks are typically much longer than short videos, meaning the returned music has to be cut to a shorter moment, there is a clear gap between the practical need and VMR. In order to bridge the gap, we propose in this paper video to music moment retrieval (VMMR) as a new task. To tackle the new task, we build a comprehensive dataset Ad-Moment which contains 50K short videos annotated with music moments and develop a two-stage approach. In particular, given a test video, the most similar music is retrieved from a given collection. Then, a Transformer based music moment localization is performed. We term this approach Retrieval and Localization (ReaL). Extensive experiments on real-world datasets verify the effectiveness of the proposed method for VMMR.},
+    abstract={Adding proper background music helps complete a short video to be shared. Previous research tackles the task by video-to-music retrieval (V2MR), which aims to find the most suitable music track from a collection to match the content of a given query video. In practice, however, music tracks are typically much longer than the query video, necessitating (manual) trimming of the retrieved music to a shorter segment that matches the video duration. In order to bridge the gap between the practical need for music moment localization and V2MR, we propose a new task termed Music Grounding by Short Video (MGSV). To tackle the new task, we introduce a new benchmark, MGSV-EC, which comprises a diverse set of 53K short videos associated with 35k different music moments from 4k unique music tracks. Furthermore, we develop a new baseline method, MaDe, which performs both video-to-music matching and music moment detection within a unifed end-to-end deep network.  Extensive experiments on MGSV-EC not only highlight the challenging nature of MGSV but also sets MaDe as a strong baseline.},
     paperlink={xxx},
-    codelink={https://github.com/xxayt/VMMR},
-    project={https://rucmm.github.io/VMMR},
+    codelink={https://github.com/xxayt/MGSV},
     preview={MGSV.png},
 }
