@@ -102,7 +102,7 @@ wechat_qr: wechat-qr.png # filename of your wechat qr-code saved as an image (e.
 
 # You can even add a little note about which of these is the best way to reach you.
 contact_note: >
-  Best way to contact me is to <a href="mailto:3494085277@qq.com">email</a> / wechat.
+  Best way to contact me is to <a href="mailto:xinzijie@ruc.edu.cn">email</a> / wechat.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

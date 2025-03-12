@@ -2,14 +2,14 @@
 layout: about
 title: home
 permalink: /
-subtitle:  # PhD at <a href='https://www.ruc.edu.cn/'>RUC</a>.
+subtitle:  AI/CS Ph.D. student at Renmin University of China, Beijing
 
 profile:
   align: right
   image: yak2.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Now Beijing</p>
+    <p>email: xinzijie@ruc.edu.cn</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD student at the [AI & Media Computing Lab](https://ruc-aimc-lab.github.io/), [Renmin University of China](https://www.ruc.edu.cn/), advised by [Prof. Xirong Li](http://lixirong.net/). Previously, I received my Bachelor's degree with honors in the Top-notch Program (a class of 15 elite students selected from 400+) from [College of Computer Science](http://cs.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/), where I was advised by [Prof. Qijun Zhao](http://www.scubrl.org/qjzhao).
+I am a first-year Ph.D. student at the [AI & Media Computing Lab](https://ruc-aimc-lab.github.io/), [Renmin University of China](https://www.ruc.edu.cn/), advised by [Prof. Xirong Li](http://lixirong.net/). Previously, I received my Bachelor's degree with honors in the Top-notch Program (a class of 15 elite students selected from 400+) from [College of Computer Science](http://cs.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/), where I was advised by [Prof. Qijun Zhao](http://www.scubrl.org/qjzhao).
 
 My research primarily revolves around cross-media retrieval, open-set recognition, and computer vision, complemented by a broad curiosity in generative model, RAG, and LLM.
 
