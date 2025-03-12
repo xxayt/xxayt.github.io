@@ -4,11 +4,11 @@
 
 "Tian":
   - firstname: ["Kaibin", "K."]
-    url: https://scholar.google.com/citations?hl=zh-CN&user=p_HrOocAAAAJ
+    url: https://github.com/TheEighthDay
 
 "Zhao":
   - firstname: ["Ruixiang", "R."]
-    url: 
+    url: https://ruixiangzhao.github.io/
 
 "Lan":
   - firstname: ["Bangxiang", "B."]
@@ -16,11 +16,17 @@
 
 "Xin":
   - firstname: ["Zijie", "Z."]
-    url: https://scholar.google.com/citations?user=wQCmPQkAAAAJ
+    url: https://xxayt.github.io/
 
 "Liu":
   - firstname: ["Jingyu", "J."]
     url: https://scholar.google.com/citations?user=u7Dqok8AAAAJ
+
+"Deng":
+  - firstname: ["Yuchuan", "Y."]
+    url: https://kimokcheon.github.io/
+
+
 
 "Wang":
   - firstname: ["Minquan", "M."]
@@ -29,7 +35,6 @@
 "Ma":
   - firstname: ["Ye", "Y."]
     url:
-
 
 "Chen":
   - firstname: ["Quan", "Q."]
