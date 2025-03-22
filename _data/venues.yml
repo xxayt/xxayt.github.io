@@ -13,3 +13,7 @@
 "TOMM":
   url: https://nips.cc/
   color: "#13b2ff"
+
+"ICME":
+  url: https://2025.ieeeicme.org/
+  color: "#f60ecd"
