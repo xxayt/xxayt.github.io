@@ -6,10 +6,6 @@
   - firstname: ["Kaibin", "K."]
     url: https://github.com/TheEighthDay
 
-"Zhao":
-  - firstname: ["Ruixiang", "R."]
-    url: https://ruixiangzhao.github.io/
-
 "Lan":
   - firstname: ["Bangxiang", "B."]
     url:
@@ -22,6 +18,10 @@
   - firstname: ["Jingyu", "J."]
     url: https://scholar.google.com/citations?user=u7Dqok8AAAAJ
 
+"Zhao":
+  - firstname: ["Ruixiang", "R."]
+    url: https://ruixiangzhao.github.io
+
 "Fu":
   - firstname: ["Yuhan", "Y."]
     url:
@@ -29,7 +29,7 @@
 
 "Deng":
   - firstname: ["Yuchuan", "Y."]
-    url: https://kimokcheon.github.io/
+    url: https://kimokcheon.github.io
 
 "Zhao":
   - firstname: ["Qijun", "Q."]
