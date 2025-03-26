@@ -48,6 +48,13 @@
             {% endif %}
 
             {%- for author in entry.author_array limit: author_array_limit -%}
+
+            <!-- 调试信息开始 -->
+            <div style="color:red; font-size:0.8em; background:#eee; padding:5px; margin-top:10px">
+                原始作者对象: {{ author | jsonify }}
+            </div>
+            <!-- 调试信息结束 -->
+
             {%- assign author_is_self = false -%}
             {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove:
             "^"
