@@ -49,12 +49,6 @@
 
             {%- for author in entry.author_array limit: author_array_limit -%}
 
-            <!-- 调试信息开始 -->
-            <div style="color:red; font-size:0.8em; background:#eee; padding:5px; margin-top:10px">
-                原始作者对象: {{ entry.author_array }}
-            </div>
-            <!-- 调试信息结束 -->
-
             {%- assign author_is_self = false -%}
             {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove:
             "^"
@@ -89,16 +83,6 @@
             {%- endif -%}
             {%- endfor -%}
             {%- assign more_authors = author_array_size | minus: author_array_limit -%}
-
-            <!-- 调试信息开始 -->
-            <div style="color:red; font-size:0.8em; background:#eee; padding:5px; margin-top:10px">
-                调试信息：<br>
-                当前作者: {{author.first}} {{author.last}} <br>
-                作者数组: {{ entry.author_array }} <br>
-                配置姓名: {{site.scholar.first_name}} {{site.scholar.last_name}} <br>
-                匹配结果: {{author_is_self}}
-            </div>
-            <!-- 调试信息结束 -->
 
             {%- assign more_authors_hide = more_authors | append: " more author" -%}
             {%- if more_authors > 0 -%}
