@@ -51,7 +51,7 @@
 
             <!-- 调试信息开始 -->
             <div style="color:red; font-size:0.8em; background:#eee; padding:5px; margin-top:10px">
-                原始作者对象: {{ author | jsonify }}
+                原始作者对象: {{ entry.author_array }}
             </div>
             <!-- 调试信息结束 -->
 
@@ -79,7 +79,7 @@
             {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
             {%- endif -%}
             {%- if author_is_self -%}
-            <strong>{{author.first}} {{author.last}}</strong>
+            <em>{{author.first}} {{author.last}}</em>
             {%- else -%}
             {%- if coauthor_url -%}
             <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
@@ -94,6 +94,7 @@
             <div style="color:red; font-size:0.8em; background:#eee; padding:5px; margin-top:10px">
                 调试信息：<br>
                 当前作者: {{author.first}} {{author.last}} <br>
+                作者数组: {{ entry.author_array }} <br>
                 配置姓名: {{site.scholar.first_name}} {{site.scholar.last_name}} <br>
                 匹配结果: {{author_is_self}}
             </div>
