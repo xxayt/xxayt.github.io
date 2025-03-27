@@ -18,9 +18,6 @@
   - firstname: ["Jingyu", "J."]
     url: https://scholar.google.com/citations?user=u7Dqok8AAAAJ
 
-"Zhao":
-  - firstname: ["Ruixiang", "R."]
-    url: https://ruixiangzhao.github.io
 
 "Fu":
   - firstname: ["Yuhan", "Y."]
@@ -31,9 +28,16 @@
   - firstname: ["Yuchuan", "Y."]
     url: https://kimokcheon.github.io
 
+"Hu":
+  - firstname: ["Zhanpeng", "Z."]
+    url: https://github.com/LucasQAQ
+
 "Zhao":
   - firstname: ["Qijun", "Q."]
     url: http://www.scubrl.org/qjzhao
+  
+  - firstname: ["Ruixiang", "R."]
+    url: https://ruixiangzhao.github.io
 
 
 "Wang":
