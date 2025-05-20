@@ -1,19 +1,19 @@
 "CVPR":
   url: https://cvpr.thecvf.com/
-  color: "#6820d0"
+  color: "#F29105"
 
 "arXiv":
   url: https://arxiv.org/
-  color: "#98d9d5"
+  color: "#828282"
 
 "AAAI":
   url: https://iclr.cc/
-  color: "#c6000b"
+  color: "#F29105"
 
 "TOMM":
   url: https://nips.cc/
-  color: "#13b2ff"
+  color: "#F29105"
 
 "ICME":
   url: https://2025.ieeeicme.org/
-  color: "#f60ecd"
+  color: "#F29105"
