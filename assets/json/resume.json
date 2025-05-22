@@ -47,6 +47,19 @@
     "work": [],
     "experiences": [
         {
+            "place": "WeChat Vision, Tencent Inc.",
+            "place_url": "https://www.tencent.com",
+            "position": "Algorithm Research Intern",
+            "advisor": "",
+            "advisor_url": "",
+            "startDate": "2025-05",
+            "endDate": "Now",
+            "summary": "",
+            "highlights": [
+                "Video Understanding"
+            ]
+        },
+        {
             "place": "Kuaishou",
             "place_url": "https://www.kuaishou.com/cn",
             "position": "Algorithm Research Intern",
