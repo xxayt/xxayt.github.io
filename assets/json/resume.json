@@ -24,7 +24,7 @@
     },
     "education": [
         {
-            "institution": "Renmin University of China, Beijing, China",
+            "institution": "Renmin University of China",
             "url": "https://www.ruc.edu.cn/",
             "location": "Beijing, China",
             "area": "Computer Science and Technology",
@@ -35,7 +35,7 @@
             "courses": []
         },
         {
-            "institution": "Sichuan University, Chengdu, China",
+            "institution": "Sichuan University",
             "url": "https://www.scu.edu.cn/",
             "location": "Chengdu, China",
             "area": "Computer Science and Technology",
