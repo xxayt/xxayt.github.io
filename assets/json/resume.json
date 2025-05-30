@@ -37,7 +37,7 @@
         {
             "institution": "Sichuan University, Chengdu, China",
             "url": "https://www.scu.edu.cn/",
-            "location": "Chengdu, Sichuan, China",
+            "location": "Chengdu, China",
             "area": "Computer Science and Technology",
             "studyType": "B.Eng.",
             "startDate": "2020-9",
@@ -58,7 +58,8 @@
             "endDate": "Now",
             "summary": "",
             "highlights": [
-                "Video Understanding"
+                "Video Understanding",
+                "Token Compress for VLM"
             ]
         },
         {
