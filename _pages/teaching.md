@@ -7,11 +7,11 @@ nav: true
 nav_order: 3
 ---
 
-### Reviewer
+#### Reviewer
 
 - ACM International Conference on Multimedia **(ACMMM)**, 2024
 
-### Teaching Assistant
+#### Teaching Assistant
 
 - Data Structure and Algorithms I, Autumn 2024 Semester
 - Practical Python Programming, Spring 2025 Semester

@@ -26,6 +26,7 @@
         {
             "institution": "Renmin University of China, Beijing, China",
             "url": "https://www.ruc.edu.cn/",
+            "location": "Beijing, China",
             "area": "Computer Science and Technology",
             "studyType": "Ph.D.",
             "startDate": "2024-9",
@@ -36,6 +37,7 @@
         {
             "institution": "Sichuan University, Chengdu, China",
             "url": "https://www.scu.edu.cn/",
+            "location": "Chengdu, Sichuan, China",
             "area": "Computer Science and Technology",
             "studyType": "B.Eng.",
             "startDate": "2020-9",
@@ -47,7 +49,7 @@
     "work": [],
     "experience": [
         {
-            "place": "WeChat Vision, Tencent Inc.",
+            "place": "WeChat Vision, Tencent",
             "place_url": "https://www.tencent.com",
             "position": "Algorithm Research Intern",
             "advisor": "Fengyun Rao",
