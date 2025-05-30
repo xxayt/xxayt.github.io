@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle:  AI/CS Ph.D. student at Renmin University of China, Beijing
 

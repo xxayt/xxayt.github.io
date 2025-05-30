@@ -1,12 +1,19 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
-nav_order: 5
+title: Service
+description: # Materials for courses you taught. Replace this text with your description.
+nav: true
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Reviewer
 
-Organize your courses by years, topics, or universities, however you like!
+- ACM International Conference on Multimedia **(ACMMM)**, 2024
+
+### Teaching Assistant
+
+- Data Structure and Algorithms I, Autumn 2024 Semester
+- Practical Python Programming, Spring 2025 Semester
+
+The students provided excellent feedback. 👨‍🏫
