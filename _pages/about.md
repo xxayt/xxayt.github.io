@@ -17,9 +17,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year Ph.D. student at the [AI & Media Computing Lab](https://ruc-aimc-lab.github.io), [Renmin University of China](https://www.ruc.edu.cn), advised by [Prof. Xirong Li](http://lixirong.net). Previously, I received my Bachelor's degree with honors in the Top-notch Program (a class of 15 elite students selected from 400+) from [College of Computer Science](http://cs.scu.edu.cn), [Sichuan University](https://www.scu.edu.cn), where I was advised by [Prof. Qijun Zhao](http://www.scubrl.org/qjzhao).
+I am a first-year Ph.D. student at the [AI & Media Computing Lab](https://ruc-aimc-lab.github.io), [Renmin University of China](https://www.ruc.edu.cn), advised by [Prof. Xirong Li](http://lixirong.net).
 
-My research primarily revolves around video understanding, multi-media learning, cross-modal retrieval, and open-set recognition, complemented by a broad curiosity in generative model, RAG, RL, and LLM.
+I obtained my Bachelor's degree with honors in the Top-notch Program (a class of 15 elite students selected from 400+) from [College of Computer Science](http://cs.scu.edu.cn), [Sichuan University](https://www.scu.edu.cn), under the supervision of [Prof. Qijun Zhao](http://www.scubrl.org/qjzhao).
+I've interned at [Tencent](https://www.tencent.com/) and [KuaiShou](https://www.kuaishou.com/).
+
+My research primarily revolves around **multi-media learning**, **video understanding**, **cross-modal retrieval**, and **open-set recognition**, complemented by a broad curiosity in generative model, RAG, RL, and LLM.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

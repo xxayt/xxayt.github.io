@@ -44,23 +44,25 @@ layout: default
 
         <!-- News -->
         {% if page.news and site.announcements.enabled -%}
-        <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
+        <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
         {%- include news.html limit=true %}
         {%- endif %}
 
         <!-- Latest posts -->
         {% if page.latest_posts -%}
-        <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
+        <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">Latest posts</a></h2>
         {%- include latest_posts.html %}
         {%- endif %}
 
         <!-- Selected papers -->
         {% if page.selected_papers -%}
         <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Publications</a></h2>
+        <p style="font-size: 14px;">* Equal Contribution | † Corresponding Author</p>
         {%- include selected_papers.html %}
         {%- endif %}
 
         <!-- Social -->
+        <h5 id="social-links">Social Links</h5>
         {%- if page.social %}
         <div class="social">
             <div class="contact-icons">
