@@ -17,9 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year Ph.D. student at the [AI & Media Computing Lab](https://ruc-aimc-lab.github.io), [Renmin University of China](https://www.ruc.edu.cn), advised by [Prof. Xirong Li](http://lixirong.net).
+I am a first-year Ph.D. student in the [AI & Media Computing Lab](https://ruc-aimc-lab.github.io) at the [Renmin University of China](https://www.ruc.edu.cn), advised by [Prof. Xirong Li](http://lixirong.net).
 
-I obtained my Bachelor's degree with honors in the Top-notch Program (a class of 15 elite students selected from 400+) from [College of Computer Science](http://cs.scu.edu.cn), [Sichuan University](https://www.scu.edu.cn), under the supervision of [Prof. Qijun Zhao](http://www.scubrl.org/qjzhao).
+I obtained my Bachelor's degree with honors in the Top-notch Program (a class of 15 elite students selected from 400+) from [Sichuan University](https://www.scu.edu.cn) in 2024, under the supervision of [Prof. Qijun Zhao](http://www.scubrl.org/qjzhao).
 I've interned at [Tencent](https://www.tencent.com/) and [KuaiShou](https://www.kuaishou.com/).
 
 My research primarily revolves around **multi-media learning**, **video understanding**, **cross-modal retrieval**, and **open-set recognition**, complemented by a broad curiosity in generative model, RAG, RL, and LLM.
