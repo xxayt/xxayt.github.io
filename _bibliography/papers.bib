@@ -18,6 +18,18 @@
     preview={MGSV.jpg},
 }
 
+@InProceedings{MoSketch_ICCV2025,
+    abbr={ICCV},
+    title={Multi-Object Sketch Animation by Scene Decomposition and Motion Planning},
+    author={Liu, Jingyu and Xin, Zijie and Fu, Yuhan and Zhao, Ruixiang and Lan, Bangxiang and Li†, Xirong},
+    booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    year={2025},
+    selected={true},
+    abstract={Sketch animation, which brings static sketches to life by generating dynamic video sequences, has found widespread applications in GIF design, cartoon production, and daily entertainment. While current sketch animation methods perform well in single-object sketch animation, they struggle in multi-object scenarios. By analyzing their failures, we summarize two challenges of transitioning from single-object to multi-object sketch animation: object-aware motion modeling and complex motion optimization. For multi-object sketch animation, we propose MoSketch based on iterative optimization through Score Distillation Sampling (SDS), without any other data for training. We propose four modules: LLM-based scene decomposition, LLM-based motion planning, motion refinement network and compositional SDS, to tackle the two challenges in a divide-and-conquer strategy. Extensive qualitative and quantitative experiments demonstrate the superiority of our method over existing sketch animation approaches. MoSketch takes a pioneering step towards multi-object sketch animation, opening new avenues for future research and applications.},
+    paperlink={https://arxiv.org/abs/2503.19351},
+    preview={MoSketch.jpg},
+}
+
 @InProceedings{TeachCLIP_CVPR2024,
     abbr={CVPR},
     title={Holistic Features are almost Sufficient for Text-to-Video Retrieval},
@@ -30,18 +42,6 @@
     codelink={https://github.com/ruc-aimc-lab/TeachCLIP},
     poster={https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29177.png},
     preview={TeachCLIP.png},
-}
-
-@InProceedings{MoSketch_ICCV2025,
-    abbr={ICCV},
-    title={Multi-Object Sketch Animation by Scene Decomposition and Motion Planning},
-    author={Liu, Jingyu and Xin, Zijie and Fu, Yuhan and Zhao, Ruixiang and Lan, Bangxiang and Li†, Xirong},
-    booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-    year={2025},
-    selected={true},
-    abstract={Sketch animation, which brings static sketches to life by generating dynamic video sequences, has found widespread applications in GIF design, cartoon production, and daily entertainment. While current sketch animation methods perform well in single-object sketch animation, they struggle in multi-object scenarios. By analyzing their failures, we summarize two challenges of transitioning from single-object to multi-object sketch animation: object-aware motion modeling and complex motion optimization. For multi-object sketch animation, we propose MoSketch based on iterative optimization through Score Distillation Sampling (SDS), without any other data for training. We propose four modules: LLM-based scene decomposition, LLM-based motion planning, motion refinement network and compositional SDS, to tackle the two challenges in a divide-and-conquer strategy. Extensive qualitative and quantitative experiments demonstrate the superiority of our method over existing sketch animation approaches. MoSketch takes a pioneering step towards multi-object sketch animation, opening new avenues for future research and applications.},
-    paperlink={https://arxiv.org/abs/2503.19351},
-    preview={MoSketch.jpg},
 }
 
 @InProceedings{DAPL_ICME2025,
@@ -63,5 +63,5 @@
     selected={true},
     abstract={Ad-hoc Video Search (AVS) involves using a textual query to search for multiple relevant videos in a large collection of unlabeled short videos. The main challenge of AVS is the visual diversity of relevant videos. A simple query like "Find shots of a man and a woman dancing together indoors" could span a multitude of environments, from brightly lit halls and shadowy bars to dance scenes within black-and-white animations. We need to find relevant videos as comprehensively as possible. Current solutions for the AVS task primarily fuse multiple features into one or more common spaces, yet overlook the need for diverse spaces. In order to fully exploit the expressive capability of individual features, we propose LPD, Learning Partially Decorrelated common spaces. LPD incorporates two key innovations: feature-specific common space construction and the decorrelation loss. Specifically, LPD learns a separate common space for each video and text feature, and employs de-correlation loss to diversify the ordering of negative samples across different spaces. To enhance the consistency of multi-space convergence, we designed an entropy-based fair multi-space triplet ranking loss. Extensive experiments on the TRECVID AVS benchmarks (2016-2023) justify the effectiveness of LPD. Moreover, diversity visualizations of LPD’s spaces highlight its ability to enhance result diversity.},
     paperlink={},
-    preview={LPD.jpg},
+    preview={LPD.png},
 }
