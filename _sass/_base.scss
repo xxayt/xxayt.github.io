@@ -678,21 +678,15 @@ footer.sticky-bottom {
         li {
             margin-bottom: 1rem;
 
-            .preview {
-                width: 125px;
-                min-width: 80px;
-                max-width: 200px;
-            }
+            .preview {}
 
             .abbr {
-                height: 2rem;
                 margin-bottom: 0.5rem;
 
                 abbr {
                     display: inline-block;
                     background-color: var(--global-theme-color);
-                    padding-left: 3rem;
-                    padding-right: 3rem;
+                    margin-bottom: 0.5rem;
 
                     a {
                         color: white;
