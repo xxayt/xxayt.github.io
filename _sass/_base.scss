@@ -674,18 +674,18 @@ footer.sticky-bottom {
 
             .preview {
                 min-width: 80px;
-                max-width: 150px;
+                max-width: 125px;
             }
 
             .abbr {
-                width: 50%;
+                width: 300%;
                 margin-bottom: 0.5rem;
 
                 abbr {
                     display: inline-block;
                     background-color: var(--global-theme-color);
                     margin-bottom: 0.5rem;
-                    width: 100%;
+                    width: 50%;
 
                     a {
                         color: white;
