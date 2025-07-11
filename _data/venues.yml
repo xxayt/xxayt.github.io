@@ -1,26 +1,26 @@
 "CVPR":
   url: https://cvpr.thecvf.com/
-  color: "#B509AC"
+  color: "#FF2727"
 
 "ICCV":
   url: https://iccv.thecvf.com/
-  color: "#B509AC"
+  color: "#FF2727"
 
 "ACMMM":
   url: https://acmmm2025.org/
-  color: "#B509AC"
+  color: "#FF2727"
 
 "ICLR":
   url: https://iclr.cc/
-  color: "#B509AC"
+  color: "#FF2727"
 
 "ICML":
   url: https://icml.cc/
-  color: "#B509AC"
+  color: "#FF2727"
 
 "AAAI":
   url: https://aaai.org/
-  color: "#B509AC"
+  color: "#FF2727"
 
 "arXiv":
   url: https://arxiv.org/
