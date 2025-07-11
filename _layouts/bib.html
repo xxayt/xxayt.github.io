@@ -3,7 +3,7 @@
 <!-- _layouts/bib.html -->
 <div class="row">
     {%- if site.enable_publication_thumbnails -%}
-    <div class="col-sm-13 {% if entry.abbr %}abbr{% endif %} {% if entry.preview %}preview{% endif %}">
+    <div class="col-sm-2 {% if entry.abbr %}abbr{% endif %} {% if entry.preview %}preview{% endif %}">
         {%- if entry.abbr -%}
         {%- if site.data.venues[entry.abbr] -%}
         {%- assign venue_style = nil -%}
@@ -38,7 +38,8 @@
 
     <!-- Entry bib key -->
     <!-- <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}"> -->
-    <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-14{% else %}col-sm-14{% endif %}">
+    <!-- <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-14{% else %}col-sm-14{% endif %}"> -->
+    <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-10{% else %}col-sm-10{% endif %}">
         <!-- Title -->
         <div class="title">{{entry.title}}</div>
         <!-- Author -->
