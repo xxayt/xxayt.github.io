@@ -1082,6 +1082,18 @@ pre code {
         max-width: 100%
     }
 
+    .col-sm-13 {
+        -ms-flex: 0 0 20%;
+        flex: 0 0 20%;
+        max-width: 20%
+    }
+
+    .col-sm-14 {
+        -ms-flex: 0 0 80%;
+        flex: 0 0 80%;
+        max-width: 80%
+    }
+
     .order-sm-first {
         -ms-flex-order: -1;
         order: -1
