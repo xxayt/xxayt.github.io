@@ -678,14 +678,14 @@ footer.sticky-bottom {
             }
 
             .abbr {
-                width: 300%;
+                width: 100%;
                 margin-bottom: 0.5rem;
 
                 abbr {
+                    width: 100%;
                     display: inline-block;
                     background-color: var(--global-theme-color);
                     margin-bottom: 0.5rem;
-                    width: 50%;
 
                     a {
                         color: white;
