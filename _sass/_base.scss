@@ -673,12 +673,13 @@ footer.sticky-bottom {
             margin-bottom: 1rem;
 
             .preview {
-                min-width: 80px;
-                max-width: 125px;
+                width: 80%;
+                // min-width: 80px;
+                // max-width: 125px;
             }
 
             .abbr {
-                width: 100%;
+                width: 80%;
                 margin-bottom: 0.5rem;
 
                 abbr {
