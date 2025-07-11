@@ -3,7 +3,7 @@
 <!-- _layouts/bib.html -->
 <div class="row">
     {%- if site.enable_publication_thumbnails -%}
-    <div class="col-sm-13 {% if entry.abbr %}abbr{% endif %} {% if entry.preview %}preview{% endif %}">
+    <div class="col-sm-2 {% if entry.abbr %}abbr{% endif %} {% if entry.preview %}preview{% endif %}">
         {%- if entry.abbr -%}
         {%- if site.data.venues[entry.abbr] -%}
         {%- assign venue_style = nil -%}
