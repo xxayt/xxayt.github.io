@@ -18,6 +18,20 @@
     preview={MGSV.png},
 }
 
+@InProceedings{TeachCLIP_CVPR2024,
+    abbr={CVPR},
+    title={Holistic Features are almost Sufficient for Text-to-Video Retrieval},
+    author={Tian*, Kaibin and Zhao*, Ruixiang and Xin, Zijie and Lan, Bangxiang and Li†, Xirong},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year={2024},
+    selected={true},
+    abstract={For text-to-video retrieval (T2VR), which aims to retrieve unlabeled videos by ad-hoc textual queries, CLIP-based methods currently lead the way. Compared to CLIP4Clip which is efficient and compact, state-of-the-art models tend to compute video-text similarity through fine-grained cross-modal feature interaction and matching, putting their scalability for large-scale T2VR applications into doubt. We propose TeachCLIP, enabling a CLIP4Clip based student network to learn from more advanced yet computationally intensive models. In order to create a learning channel to convey fine-grained cross-modal knowledge from a heavy model to the student, we add to CLIP4Clip a simple Attentional frame-Feature Aggregation (AFA) block, which by design adds no extra storage / computation overhead at the retrieval stage. Frame-text relevance scores calculated by the teacher network are used as soft labels to supervise the attentive weights produced by AFA. Extensive experiments on multiple public datasets justify the viability of the proposed method. TeachCLIP has the same efficiency and compactness as CLIP4Clip, yet has near-SOTA effectiveness.},
+    paperlink={https://openaccess.thecvf.com/content/CVPR2024/html/Tian_Holistic_Features_are_almost_Sufficient_for_Text-to-Video_Retrieval_CVPR_2024_paper.html},
+    codelink={https://github.com/ruc-aimc-lab/TeachCLIP},
+    poster={https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29177.png},
+    preview={TeachCLIP.png},
+}
+
 @InProceedings{LPD_MM2025,
     abbr={ACMMM},
     title={Learning Partially-Decorrelated Common Spaces for Ad-hoc Video Search},
@@ -40,20 +54,6 @@
     abstract={Sketch animation, which brings static sketches to life by generating dynamic video sequences, has found widespread applications in GIF design, cartoon production, and daily entertainment. While current sketch animation methods perform well in single-object sketch animation, they struggle in multi-object scenarios. By analyzing their failures, we summarize two challenges of transitioning from single-object to multi-object sketch animation: object-aware motion modeling and complex motion optimization. For multi-object sketch animation, we propose MoSketch based on iterative optimization through Score Distillation Sampling (SDS), without any other data for training. We propose four modules: LLM-based scene decomposition, LLM-based motion planning, motion refinement network and compositional SDS, to tackle the two challenges in a divide-and-conquer strategy. Extensive qualitative and quantitative experiments demonstrate the superiority of our method over existing sketch animation approaches. MoSketch takes a pioneering step towards multi-object sketch animation, opening new avenues for future research and applications.},
     paperlink={https://arxiv.org/abs/2503.19351},
     preview={MoSketch.jpg},
-}
-
-@InProceedings{TeachCLIP_CVPR2024,
-    abbr={CVPR},
-    title={Holistic Features are almost Sufficient for Text-to-Video Retrieval},
-    author={Tian*, Kaibin and Zhao*, Ruixiang and Xin, Zijie and Lan, Bangxiang and Li†, Xirong},
-    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year={2024},
-    selected={true},
-    abstract={For text-to-video retrieval (T2VR), which aims to retrieve unlabeled videos by ad-hoc textual queries, CLIP-based methods currently lead the way. Compared to CLIP4Clip which is efficient and compact, state-of-the-art models tend to compute video-text similarity through fine-grained cross-modal feature interaction and matching, putting their scalability for large-scale T2VR applications into doubt. We propose TeachCLIP, enabling a CLIP4Clip based student network to learn from more advanced yet computationally intensive models. In order to create a learning channel to convey fine-grained cross-modal knowledge from a heavy model to the student, we add to CLIP4Clip a simple Attentional frame-Feature Aggregation (AFA) block, which by design adds no extra storage / computation overhead at the retrieval stage. Frame-text relevance scores calculated by the teacher network are used as soft labels to supervise the attentive weights produced by AFA. Extensive experiments on multiple public datasets justify the viability of the proposed method. TeachCLIP has the same efficiency and compactness as CLIP4Clip, yet has near-SOTA effectiveness.},
-    paperlink={https://openaccess.thecvf.com/content/CVPR2024/html/Tian_Holistic_Features_are_almost_Sufficient_for_Text-to-Video_Retrieval_CVPR_2024_paper.html},
-    codelink={https://github.com/ruc-aimc-lab/TeachCLIP},
-    poster={https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29177.png},
-    preview={TeachCLIP.png},
 }
 
 @InProceedings{DAPL_ICME2025,
