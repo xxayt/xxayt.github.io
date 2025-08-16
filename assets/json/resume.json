@@ -58,12 +58,13 @@
             "endDate": "Now",
             "summary": "",
             "highlights": [
+                "Video MLLM",
                 "Video Understanding",
-                "Token Compress for VLM"
+                "Video Temporal Grounding"
             ]
         },
         {
-            "place": "Kuaishou",
+            "place": "Commercial Intelligence Generation Center, Kuaishou",
             "place_url": "https://www.kuaishou.com/cn",
             "position": "Algorithm Research Intern",
             "advisor": "Quan Chen",
