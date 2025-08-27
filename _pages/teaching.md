@@ -13,7 +13,7 @@ nav_order: 3
 
 #### Teaching Assistant
 
-- Data Structure and Algorithms I, Autumn 2024 Semester
 - Practical Python Programming, Spring 2025 Semester
+- Data Structure and Algorithm I, Autumn 2024 Semester
 
 The students provided excellent feedback. 👨‍🏫
