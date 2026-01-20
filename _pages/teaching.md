@@ -10,6 +10,7 @@ nav_order: 3
 #### Reviewer
 
 - ACM International Conference on Multimedia **(ACMMM)**, 2024
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2026
 
 #### Teaching Assistant
 
