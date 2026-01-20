@@ -22,7 +22,7 @@ I am a second-year Ph.D. student in the [AI & Media Computing Lab](https://ruc-a
 I obtained my Bachelor's degree with honors in the Top-notch Program (a class of 15 elite students selected from 400+) from [Sichuan University](https://www.scu.edu.cn) in 2024, under the supervision of [Prof. Qijun Zhao](http://www.scubrl.org/qjzhao).
 I've interned at [Tencent](https://www.tencent.com/) and [KuaiShou](https://www.kuaishou.com/).
 
-My research primarily revolves around **multi-media learning**, **video understanding**, **cross-modal retrieval**, and **open-set recognition**, complemented by a broad curiosity in generative model, RAG, RL, and LLM.
+My research primarily revolves around **video understanding**, **VideoLLM/OmniLLM**, and **cross-modal retrieval**, complemented by a broad curiosity in generative model, RAG, RL.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
