@@ -1,3 +1,6 @@
+local start shell:
+bundle exec jekyll serve --port=8080 --host=127.0.0.1
+
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'

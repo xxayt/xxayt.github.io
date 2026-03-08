@@ -1,4 +1,9 @@
 source 'https://rubygems.org'
+gem 'ostruct'
+gem 'logger'
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
