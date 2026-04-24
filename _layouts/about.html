@@ -56,7 +56,7 @@ layout: default
 
         <!-- Selected papers -->
         {% if page.selected_papers -%}
-        <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Publications</a></h2>
+        <h2>Selected Publications <span style="font-size: 1rem; font-weight: normal;">(<a href="{{ '/publications/' | relative_url }}">full list</a>)</span></h2>
         <p style="font-size: 14px;">* Equal Contribution | † Corresponding Author</p>
         {%- include selected_papers.html %}
         {%- endif %}

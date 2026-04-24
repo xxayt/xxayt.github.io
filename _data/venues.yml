@@ -24,7 +24,7 @@
 
 "arXiv":
   url: https://arxiv.org/
-  color: "#FF2727"
+  color: "#999999"
 
 "TOMM":
   url: https://nips.cc/

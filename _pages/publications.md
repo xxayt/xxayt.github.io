@@ -10,12 +10,15 @@ nav_order: 1
 <div class="publications">
 
 <h2 class="topic-title">Cross-modal Retrieval</h2>
-{% bibliography -f papers --group_by none --query @*[topic=Cross-modal Retrieval]* %}
+{% bibliography -f crossmodal --group_by none %}
+
+<h2 class="topic-title">Medical AI</h2>
+{% bibliography -f medical --group_by none %}
+
+<h2 class="topic-title">Generative Model</h2>
+{% bibliography -f generative --group_by none %}
 
 <h2 class="topic-title">Video Large Language Model</h2>
 <p class="topic-placeholder"><em>Coming soon...</em></p>
-
-<h2 class="topic-title">Generative Model</h2>
-{% bibliography -f papers --group_by none --query @*[topic=Generative Model]* %}
 
 </div>
