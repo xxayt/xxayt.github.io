@@ -19,6 +19,6 @@ nav_order: 1
 {% bibliography -f generative --group_by none %}
 
 <h2 class="topic-title">Video Large Language Model</h2>
-<p class="topic-placeholder"><em>Coming soon...</em></p>
+{% bibliography -f videollm --group_by none %}
 
 </div>
