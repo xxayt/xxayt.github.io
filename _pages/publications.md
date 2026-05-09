@@ -9,6 +9,9 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
+<h2 class="topic-title">Video Large Language Model</h2>
+{% bibliography -f videollm --group_by none %}
+
 <h2 class="topic-title">Cross-modal Retrieval</h2>
 {% bibliography -f crossmodal --group_by none %}
 
@@ -17,8 +20,5 @@ nav_order: 1
 
 <h2 class="topic-title">Generative Model</h2>
 {% bibliography -f generative --group_by none %}
-
-<h2 class="topic-title">Video Large Language Model</h2>
-{% bibliography -f videollm --group_by none %}
 
 </div>

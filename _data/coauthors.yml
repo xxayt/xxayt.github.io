@@ -17,7 +17,16 @@
 "Liu":
   - firstname: ["Jingyu", "J."]
     url: https://scholar.google.com/citations?user=u7Dqok8AAAAJ
+  - firstname: ["Jiazhen", "J."]
+    url: https://jiazhen-code.github.io/about.me/
 
+"Yang":
+  - firstname: ["Jie", "J."]
+    url: https://yangjie-cv.github.io/
+
+"Rao":
+  - firstname: ["Fengyun", "F."]
+    url: https://scholar.google.com/citations?user=38dACd4AAAAJ&hl=zh-CN&oi=ao
 
 "Fu":
   - firstname: ["Yuhan", "Y."]
@@ -31,7 +40,6 @@
 "Hu":
   - firstname: ["Fan", "F."]
     url: https://scholar.google.com/citations?user=599DarUAAAAJ
-
   - firstname: ["Zhanpeng", "Z."]
     url: https://github.com/LucasQAQ
 
@@ -42,6 +50,9 @@
   - firstname: ["Ruixiang", "R."]
     url: https://ruixiangzhao.github.io
 
+"Qian":
+  - firstname: ["Kaiheng", "K."]
+    url: https://kaihengqian.github.io/
 
 "Wang":
   - firstname: ["Minquan", "M."]
@@ -58,3 +69,12 @@
 "Jiang":
   - firstname: ["Peng", "P."]
     url: https://scholar.google.com/citations?user=9o5swhQAAAAJ
+
+"Wei":
+  - firstname: ["Qijie", "Q."]
+    url: https://weiqijie.github.io/
+
+# dong jianfeng
+"Dong":
+  - firstname: ["Jianfeng", "J."]
+    url: https://danieljf24.github.io/

@@ -4,7 +4,7 @@
 <div class="row">
     {%- if site.enable_publication_thumbnails -%}
     <div class="col-sm-13 {% if entry.abbr %}abbr{% endif %} {% if entry.preview %}preview{% endif %}">
-        {%- if entry.abbr -%}
+        {%- if entry.abbr and entry.abbr != "arXiv" -%}
         {%- if site.data.venues[entry.abbr] -%}
         {%- assign venue_style = nil -%}
         {%- if site.data.venues[entry.abbr].color != blank -%}

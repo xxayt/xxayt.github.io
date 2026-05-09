@@ -1,6 +1,7 @@
 
           <div class="publications">
 
+            {% bibliography -f videollm --group_by none --query @*[selected=true] %}
             {% bibliography -f crossmodal --group_by none --query @*[selected=true] %}
             {% bibliography -f medical --group_by none --query @*[selected=true] %}
             {% bibliography -f generative --group_by none --query @*[selected=true] %}
