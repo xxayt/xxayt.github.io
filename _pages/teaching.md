@@ -12,6 +12,7 @@ nav_order: 3
 - ACM International Conference on Multimedia **(ACMMM)**, 2024
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2026
 - International Conference on Machine Learning **(ICML)**, 2026
+- Advances in Neural Information Processing Systems **(NeurIPS)**, 2026
 
 #### Teaching Assistant
 
