@@ -229,6 +229,83 @@ blockquote {
     }
 }
 
+// Research interests
+.research-interests {
+    .research-highlight {
+        font-weight: 600;
+    }
+
+    .method-badge {
+        display: inline-block;
+        margin: 0 0.08rem;
+        padding: 0.07rem 0.55rem;
+        border-radius: 4px;
+        color: #fff !important;
+        font-size: 0.82rem;
+        font-weight: 700;
+        line-height: 1.35;
+        text-decoration: none;
+        transition: filter 0.15s ease, transform 0.15s ease;
+        vertical-align: 0.05em;
+        white-space: nowrap;
+
+        &:hover {
+            color: #fff !important;
+            filter: brightness(0.95);
+            transform: scale(1.04);
+            text-decoration: none;
+        }
+    }
+
+    .research-highlight.method-seats {
+        color: #ffc002;
+    }
+
+    .method-badge.method-seats {
+        background-color: #ffcd32;
+    }
+
+    .research-highlight.method-omnipro {
+        color: #c75f18;
+    }
+
+    .method-badge.method-omnipro {
+        background-color: #d86b23;
+    }
+
+    .research-highlight.method-mgsv {
+        color: #7357a8;
+    }
+
+    .method-badge.method-mgsv {
+        background-color: #a892cf;
+    }
+
+    .research-highlight.method-lpd {
+        color: #33824f;
+    }
+
+    .method-badge.method-lpd {
+        background-color: #74b987;
+    }
+
+    .research-highlight.method-teachclip {
+        color: #c75050;
+    }
+
+    .method-badge.method-teachclip {
+        background-color: #e48a86;
+    }
+
+    .research-highlight.method-save {
+        color: #3478b5;
+    }
+
+    .method-badge.method-save {
+        background-color: #74a7d6;
+    }
+}
+
 // Navbar customization
 
 .navbar {

@@ -21,10 +21,29 @@ I am a second-year Ph.D. student in the [AI & Media Computing Lab](https://ruc-a
 
 I obtained my Bachelor's degree with honors in the Top-notch Program (a class of 15 elite students selected from 400+) from [Sichuan University](https://www.scu.edu.cn) in 2024, under the supervision of [Prof. Qijun Zhao](http://www.scubrl.org/qjzhao).
 I've interned at <img src="/assets/icon/wechat.ico" alt="WeChat" style="height: 1em; width: 1em; vertical-align: -0.12em;"> [Wechat Vision, Tencent](https://www.tencent.com/) and <img src="/assets/icon/kuaishou.ico" alt="KuaiShou" style="height: 1em; width: 1em; vertical-align: -0.12em;"> [KuaiShou](https://www.kuaishou.com/).
+
 My research interests primarily include:
 
-- **Efficient Video LLMs:** Boosting efficiency and evaluation of multimodal models, including audio-visual and streaming video understanding ([SEATS](https://xxayt.github.io/SEATS/), [OmniPro](https://arxiv.org/abs/2605.18577), [Fundus-R1](https://arxiv.org/abs/2604.08322)).
-- **Cross-modal Video Retrieval:** Learning video representations across text, audio, and music modalities for retrieval and recommendation ([MGSV](https://github.com/xxayt/MGSV), [LPD](https://arxiv.org/abs/2508.02340), [TeachCLIP](https://openaccess.thecvf.com/content/CVPR2024/html/Tian_Holistic_Features_are_almost_Sufficient_for_Text-to-Video_Retrieval_CVPR_2024_paper.html), [SAVE](https://arxiv.org/abs/2603.08224)).
+<ul class="research-interests">
+  <li>
+    <strong>Video Large Language Models:</strong>
+    <span class="research-highlight method-seats">Efficient inference</span> and
+    <span class="research-highlight method-omnipro">proactive assessment</span> of audio-visual understanding.
+    <a class="method-badge method-seats" href="https://xxayt.github.io/SEATS/">SEATS</a>
+    <a class="method-badge method-omnipro" href="https://ruixiangzhao.github.io/OmniPro/">OmniPro</a>
+  </li>
+  <li>
+    <strong>Cross-modal Video Retrieval:</strong>
+    <span class="research-highlight method-teachclip">Holistic</span> and
+    <span class="research-highlight method-lpd">diverse</span> video representation learning across text,
+    <span class="research-highlight method-mgsv">music</span>, and
+    <span class="research-highlight method-save">speech</span>.
+    <a class="method-badge method-teachclip" href="https://openaccess.thecvf.com/content/CVPR2024/html/Tian_Holistic_Features_are_almost_Sufficient_for_Text-to-Video_Retrieval_CVPR_2024_paper.html">TeachCLIP</a> 
+    <a class="method-badge method-lpd" href="https://arxiv.org/abs/2508.02340">LPD</a> 
+    <a class="method-badge method-mgsv" href="https://github.com/xxayt/MGSV">MGSV</a> 
+    <a class="method-badge method-save" href="https://github.com/ruc-aimc-lab/SAVE">SAVE</a>
+  </li>
+</ul>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
