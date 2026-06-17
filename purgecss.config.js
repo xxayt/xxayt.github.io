@@ -9,5 +9,15 @@ module.exports = {
     output: "_site/assets/css/",
     skippedContentGlobs: [
         "_site/assets/**/*.html"
-    ]
+    ],
+    safelist: {
+        standard: [
+            'research-interests',
+            'research-highlight',
+            'method-badge'
+        ],
+        greedy: [
+            /^method-/
+        ]
+    }
 };
