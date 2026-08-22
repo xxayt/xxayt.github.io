@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle:  AI/CS Ph.D. student at Renmin University of China, Beijing
+subtitle:  PhD student at Renmin University of China
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a second-year Ph.D. student in the [AI & Media Computing Lab](https://ruc-aimc-lab.github.io) at the [Renmin University of China](https://www.ruc.edu.cn), advised by [Prof. Xirong Li](http://lixirong.net).
+I am a second-year Ph.D. student in the [AI & Media Computing Lab](https://ruc-aimc-lab.github.io) at the [Renmin University of China](https://www.ruc.edu.cn), advised by [Prof. Xirong Li](https://li-xirong.github.io).
 
 I obtained my Bachelor's degree with honors in the Top-notch Program (a class of 15 elite students selected from 400+) from [Sichuan University](https://www.scu.edu.cn) in 2024, under the supervision of [Prof. Qijun Zhao](http://www.scubrl.org/qjzhao).
 I've interned at <img src="/assets/icon/wechat.ico" alt="WeChat" style="height: 1em; width: 1em; vertical-align: -0.12em;"> [Wechat Vision, Tencent](https://www.tencent.com/) and <img src="/assets/icon/kuaishou.ico" alt="KuaiShou" style="height: 1em; width: 1em; vertical-align: -0.12em;"> [KuaiShou](https://www.kuaishou.com/).
